@@ -1,16 +1,9 @@
 # kortoba_task
 
-A new Flutter project.
+A new Flutter project. it wase an task I did it to Kurtoba com this app is commerce app I used in it my own package to help me on connect the ui screens to data sources this  packages is 
+1- commece moduel  : it helps the app to connect to the server api and add , update , delete and  get the products data  and help to connect to api of cards and  payments  this module is umder developing now.
+2 user Module : this package helps the app to connect to user data source such as firebase or api server and help ot log in and signe up and update the profile and get the sub data if the data in sub collection in firestore
+ 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
+ 
